@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
   - ../../../apps/xkovalcikc-ambulance-ufe
+
+components:
+  - ../../../components/version-developers
