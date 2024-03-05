@@ -9,7 +9,7 @@ spec:
     # - umiestnený v namespace wac-hospital
   navigation:
     - element:
-        xkovalcikc-ambulance-wl-list # element, ktorý bude vložený na stránku
+        xkovalcikc-ambulance-wl-app # element, ktorý bude vložený na stránku
         # pri navigácii na zoznam čakajúcich
       path: xkovalcikc-ambulance-wl # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Zoznam čakajúcich xkovalcikc # názov mikro aplikácie
