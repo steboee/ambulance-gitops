@@ -11,7 +11,7 @@ spec:
     - element:
         xkovalcikc-ambulance-wl-app # element, ktorý bude vložený na stránku
         # pri navigácii na zoznam čakajúcich
-      path: xkovalcikc-ambulance-app # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
+      path: xkovalcikc-ambulance-wl # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Zoznam čakajúcich xkovalcikc # názov mikro aplikácie
       details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
   preload: false # určuje, či má byť web komponent načítaný spolu s hlavnou stránkou
