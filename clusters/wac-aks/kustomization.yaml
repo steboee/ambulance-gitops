@@ -4,7 +4,7 @@ kind: Kustomization
 commonLabels:
   app.kubernetes.io/name: xkovalcikc-apps
   app.kubernetes.io/instance: release
-  app.kubernetes.io/version: "v1.0.0"
+  app.kubernetes.io/version: "1.0.0"
 
 resources:
   - gitops
